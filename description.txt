@@ -1,7 +1,7 @@
 The Collection [WIP] at this moment has:
 
 - 16 new items
-- 2 new buffs
+- 3 new buffs
 - 3 new town NPC
 
 The mod currently adds a small update to the meteorite, creating a hardmode version of it (don't need new world), adding an NPC:
