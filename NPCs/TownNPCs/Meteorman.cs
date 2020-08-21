@@ -259,13 +259,6 @@ namespace TheCollectionMod.TownNPCs
 			{
 				shop.item[nextSlot].SetDefaults(mod.ItemType("MeteormanLegs")); nextSlot++;
 			}
-			// Here is an example of how your npc can sell items from other mods.
-			var modTohoPets = ModLoader.GetMod("TohoPets");
-			if (modTohoPets != null)
-			{
-				shop.item[nextSlot].SetDefaults(modTohoPets.ItemType("PetCall"));
-				nextSlot++;
-			}
 		}
 		public override void TownNPCAttackStrength(ref int damage, ref float knockback)
 		{
