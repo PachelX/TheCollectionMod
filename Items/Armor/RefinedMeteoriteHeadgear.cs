@@ -67,8 +67,9 @@ namespace TheCollectionMod.Items.Armor
 		public override void ArmorSetShadows(Player player)
 		{
 			player.armorEffectDrawShadow = true;
-			player.armorEffectDrawOutlines = true;
+			player.armorEffectDrawOutlines = false;
 			player.armorEffectDrawShadowLokis = true;
+			player.armorEffectDrawShadowSubtle = true;
 		}
 
 		public override void AddRecipes()
