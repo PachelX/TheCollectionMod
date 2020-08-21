@@ -1,0 +1,9 @@
+displayName = The Collection
+author = Sensei
+version = 0.1
+homepage = enlace del foro cuando esté
+hideCode = false
+hideResources = false
+includeSource = true
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*
+includePDB = true

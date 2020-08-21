@@ -1,0 +1,29 @@
+The Collection [WIP] at this moment has:
+
+- 16 new items
+- 2 new buffs
+- 3 new town NPC
+
+The mod currently adds a small update to the meteorite, creating a hardmode version of it (don't need new world), adding an NPC:
+	- The Meteorman: who will help you with the new ore.
+There are also 2 extra NPCs:
+	- The Ninja: sells ninja related items and will give you ninja buffs.	
+	- The Archaeologist: sells useful items at the beginning of the game.
+
+Notes:
+Multiplayer compatibility is unknown, due to the lack of testing. 
+
+More notes:
+
+The initial objective of the mod is focused on the paintings, it is planned to add an NPC specialized in it, similar to the Angler in a way. But I am quite a newbie to modding and spriting.
+So in principle i will try to add more content in little explored and more basic aspects of the game, such as marble caves, granite, beehive... while I learn more.
+I know there are more mods that do this, but you have to start with something.
+
+Suggestions, recommendations and stuff will be appreciated
+
+Cross-Mod content with Tohopets.
+Census Mod support.
+
+Credits:
+Sensei - Newbie Development
+Allul - Help with code.
