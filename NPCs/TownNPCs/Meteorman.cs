@@ -120,7 +120,7 @@ namespace TheCollectionMod.TownNPCs
 				return "Thanks to " + Main.npc[Dryad].GivenName + " I have been able to heal, I am very grateful to her.";
 			}
 
-			switch (Main.rand.Next(6))
+			switch (Main.rand.Next(7))
 			{
 				case 0:
 					return "The equipment you forge with meteorite is very good, but you do not get the maximum potential from it.";
@@ -147,6 +147,9 @@ namespace TheCollectionMod.TownNPCs
 					{
 						return "I wonder what happened to my friend.";
 					}
+				case 5:
+					Main.npcChatCornerItem = ItemID.MythrilPickaxe;
+					return "To mine the hardened meteorite you will need at least a Mythril Pickaxe.";
 				default:
 					return "You have good stones around here...";
 			}
@@ -230,6 +233,7 @@ namespace TheCollectionMod.TownNPCs
 
 		public override void SetupShop(Chest shop, ref int nextSlot)
 		{
+			shop.item[nextSlot].SetDefaults(mod.ItemType("MeteorClentaminator")); nextSlot++;
 			shop.item[nextSlot].SetDefaults(mod.ItemType("MeteoriteSolution")); nextSlot++;
 
 			if (Main.hardMode)
