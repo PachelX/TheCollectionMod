@@ -25,6 +25,9 @@ Spanish support WIP.
 
 Census Mod support.
 
+Changelog: v0.1
+ - Mod release.
+
 Credits:
 Sensei - Newbie Development
 Allul - Help with code.
