@@ -1,6 +1,6 @@
 The Collection [WIP] at this moment has:
 
-- 16 new items
+- 17 new items
 - 3 new buffs
 - 3 new town NPC
 
