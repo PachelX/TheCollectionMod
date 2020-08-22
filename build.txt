@@ -1,7 +1,7 @@
 displayName = The Collection
 author = Sensei
-version = 0.1
-homepage = enlace del foro cuando esté
+version = 0.2
+homepage = https://forums.terraria.org/index.php?threads/wip-the-collection-mod.97262/
 hideCode = false
 hideResources = false
 includeSource = true
