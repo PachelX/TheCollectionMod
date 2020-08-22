@@ -26,6 +26,8 @@ Spanish support WIP.
 Census Mod support.
 
 Changelog: 
+v0.3
+ - Added mod icon.
 v0.2
  - Added forum link.
 v0.1
