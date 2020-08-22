@@ -25,7 +25,7 @@ namespace TheCollectionMod.Tiles
 
 			ModTranslation name = CreateMapEntryName();
 			name.SetDefault("Hardened Meteorite Ore");
-			AddMapEntry(new Color(35, 69, 116), name);
+			AddMapEntry(new Color(207, 170, 2166), name);
 			name.AddTranslation(GameCulture.Spanish, "Meteorito endurecido");
 
 			dustType = DustID.FlameBurst;
